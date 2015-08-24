@@ -11,7 +11,7 @@
       state: absent
       transportzone: "TZ"
       name: "TestLS"
-      controlplanemode: "HYBRID_MODE"
+      controlplanemode: "UNICAST_MODE"
       description: "My Great Logical Switch"
     register: create_logical_switch
 

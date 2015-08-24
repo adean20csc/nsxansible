@@ -1,0 +1,6 @@
+nsxmanager_spec: 
+  raml_file: '/Users/yfauser/Documents/Development/raml/nsxvraml/nsxvapiv614.raml'
+  host: '172.17.100.61'
+  user: 'admin'
+  password: 'vmware'
+
